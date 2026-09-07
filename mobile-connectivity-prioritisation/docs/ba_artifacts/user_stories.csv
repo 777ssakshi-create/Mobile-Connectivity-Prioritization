@@ -1,0 +1,5 @@
+ID,User Story,Acceptance Criteria
+US-001,"As a programme analyst, I want to rank markets by connectivity priority so that I can focus investigation on the highest-impact markets.","Given valid country data, when the ranking is generated, then countries are ordered by the defined priority-score logic."
+US-002,"As a programme manager, I want to see the population impact of a connectivity gap so that I can understand potential scale.",The output displays the benchmark gap and estimated population impact for each country.
+US-003,"As an analyst, I want to see data freshness and confidence so that I can assess whether a result is reliable enough for decision-making.",Each country displays indicator years and a data-confidence category.
+US-004,"As a stakeholder, I want to understand possible barrier patterns so that I can determine what further investigation is needed.",Countries with material gaps are assigned a transparent diagnostic segment based on documented rules.

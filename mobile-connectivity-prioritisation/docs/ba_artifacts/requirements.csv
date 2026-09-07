@@ -1,0 +1,8 @@
+ID,Type,Requirement,Priority,Rationale
+BR-001,Business,Provide a consistent method for prioritising connectivity markets.,Must,Reduce inconsistent/ad-hoc prioritisation.
+BR-002,Business,Identify the population impact associated with connectivity gaps.,Must,Avoid ranking solely on percentages.
+BR-003,Business,Provide contextual indicators that support root-cause investigation.,Should,Different gaps may require different interventions.
+FR-001,Functional,Allow analysts to filter and rank countries by priority score.,Must,Support decision-making.
+FR-002,Functional,Display the source year for each key indicator.,Must,Make data freshness visible.
+FR-003,Functional,Display a data-confidence rating.,Should,Prevent overconfidence in incomplete data.
+NFR-001,Non-functional,Definitions and calculation rules shall be documented.,Must,Support reproducibility and governance.

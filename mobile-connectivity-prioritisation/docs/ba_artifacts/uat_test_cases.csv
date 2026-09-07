@@ -1,0 +1,6 @@
+Test ID,Requirement,Scenario,Expected Result,Priority
+UAT-001,FR-001,Rank countries by priority score,Countries appear in descending priority-score order.,High
+UAT-002,FR-002,Inspect indicator year,The source year for each indicator is visible.,High
+UAT-003,FR-003,Inspect data confidence,Each country has a documented confidence category.,Medium
+UAT-004,BR-002,Review population impact,Gap and estimated population impact are calculated consistently.,High
+UAT-005,NFR-001,Review methodology,"Indicator definitions, benchmark, weights and assumptions are documented.",High

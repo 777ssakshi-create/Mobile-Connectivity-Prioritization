@@ -1,0 +1,7 @@
+Field,Definition,Source,Type,Business Use
+countryiso3code,ISO-style three-letter country code supplied by World Bank API.,World Bank,Text,Country identifier
+internet_usage_pct,Individuals using the Internet as a percentage of population.,World Bank / ITU indicator IT.NET.USER.ZS,Numeric %,Connectivity adoption
+mobile_subscriptions_per_100,Mobile cellular subscriptions per 100 people.,World Bank / ITU indicator IT.CEL.SETS.P2,Numeric,Mobile-market context
+population,Total population.,World Bank indicator SP.POP.TOTL,Numeric,Scale / impact
+gdp_per_capita,GDP per capita in current US dollars.,World Bank indicator NY.GDP.PCAP.CD,Numeric,Economic context
+rural_population_pct,Rural population as percentage of total population.,World Bank indicator SP.RUR.TOTL.ZS,Numeric %,Rural context
